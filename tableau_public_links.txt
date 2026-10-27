@@ -1,0 +1,7 @@
+Project: Olympic Games Data Analysis
+
+Tableau Public Dashboard:
+https://public.tableau.com/app/profile/dolly.trivedi5857/viz/Book1_17930326071190/OlympicGamesDataAnalysisDashboard?publish=yes&showOnboarding=true
+
+Tableau Public Story:
+https://public.tableau.com/app/profile/dolly.trivedi5857/viz/Book1_Story_17930777705310/OlympicGamesDataAnalysisStory?publish=yes
