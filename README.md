@@ -53,8 +53,11 @@ Dataset source: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-hi
 The analysis is based on the fields available in the source dataset. Results should be interpreted within the dataset's scope and definitions.
 
 ## Key Findings
-
-Add 3–5 findings after reviewing the actual Tableau visualisations. Include relevant comparisons and values from the dataset.
+1. The dashboard compares Olympic medal records across sports, teams, genders, seasons, and host cities.
+2. The time-series visualisation helps identify changes in recorded medal results across Olympic years.
+3. The gender comparison highlights the distribution of medal records between male and female athletes.
+4. The seasonal comparison shows how medal records are distributed between Summer and Winter Olympics.
+5. The sport-wise analysis helps compare recorded medal results across different sports.
 
 ## How to View the Project
 
